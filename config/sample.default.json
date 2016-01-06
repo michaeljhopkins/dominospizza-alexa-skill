@@ -1,0 +1,26 @@
+{
+	"Amazon" : {
+		"lambda-arn" : "YOUR ARN HERE",
+	},
+	"Card" : {
+		"number" : "1234123412341234",
+		"expiration" : "mmyy",
+		"csv" : "123",
+		"zip" : "12345"
+	},
+	"Store" : {
+		"id" : "2881"
+	},
+	"Delivery" : {
+		"street" : "1234",
+		"city" : "1234",
+		"state" : "CO",
+		"zip" : "12345"
+	},
+	"Customer" : {
+		"firstName" : "Barack",
+		"lastName" : "Obama",
+		"phone" : "1234567890",
+		"email" : "barack@whitehouse.gov"
+	}
+}

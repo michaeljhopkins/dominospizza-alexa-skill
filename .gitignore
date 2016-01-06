@@ -1,0 +1,13 @@
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+npm-debug.log
+node_modules
+.DS_Store
+tmp
+config/default.json
+dist
+.idea
